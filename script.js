@@ -5,10 +5,10 @@ import { getFirestore, collection, addDoc } from "https://www.gstatic.com/fireba
 
 // Configuration Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDx-LqtPc6MNauyOBww-GYMXMkUmFQVa2k",
+  apiKey: "AIzaSyApbtMKHbSDMzPom-txbtD27_y-49rsg0k", // Nouvelle clé API
   authDomain: "page-de-connexion-f5f19.firebaseapp.com",
   projectId: "page-de-connexion-f5f19",
-  storageBucket: "page-de-connexion-f5f19.appspot.com", // Correction ici !
+  storageBucket: "page-de-connexion-f5f19.firebasestorage.app",
   messagingSenderId: "657832256354",
   appId: "1:657832256354:web:7163ed93c42c627d1a823b",
   measurementId: "G-4K7RJQVVWL"
